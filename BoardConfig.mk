@@ -282,3 +282,5 @@ include vendor/xiaomi/peridot/BoardConfigVendor.mk
 
 # Vendor MiuiCamera
 -include device/xiaomi/peridot-miuicamera/BoardConfig.mk
+
+include vendor/aetheria/config/BoardConfigAetheria.mk
